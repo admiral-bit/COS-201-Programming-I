@@ -154,13 +154,3 @@ java AverageCalculator
 javac ItemCost.java
 java ItemCost
 ```
-
----
-
-### Testing
-
-Test each program with different valid inputs and verify
-that the results match the expected calculations.
-
-Keep your student details from Week 2 accurate. The README should explain what is actually included in
-your repository.
